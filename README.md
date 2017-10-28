@@ -1,2 +1,1 @@
-# dailyprogrammer
-Solutions to challenges on /r/dailyprogrammer
+# Solutions to [/r/dailyprogrammer](https://reddit.com/r/dailyprogrammer) challenges.
